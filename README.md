@@ -4,5 +4,5 @@ About me:<br>
 -I love doing origami :heart_eyes_cat:<br>
 -I'm in love with completing sudokus.<br>
 -I'm beginning a new stage by learning JavaScript. :sunglasses:<br><br>
-Follow my process!
+Follow my process!<br><br>
 Find me on [LinkedIn](linkedin.com/in/víctor-ramírez-5a789011b)
