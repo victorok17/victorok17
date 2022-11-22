@@ -6,5 +6,5 @@ About me:<br>
 -I'm in love with completing sudokus.<br>
 
 Follow my process!<br><br>
-Find me on [LinkedIn](linkedin.com/in/víctor-ramírez-5a789011b)<br>
+Find me on [LinkedIn](https://www.linkedin.com/in/victor-ramirez-5a789011b/)<br>
 Email me at *victor_remodelado@hotmail.com*
